@@ -1,0 +1,13 @@
+{
+    "name": "brianndiwa/controllers",
+    "description": "Agiza app",
+    "require": {
+        "yiisoft/yii2-gii": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brianndiwa\\Controllers\\": "src/"
+        }
+    },
+    "minimum-stability": "beta"
+}
